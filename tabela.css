@@ -16,3 +16,6 @@ tr:nth-child(even) td {
     background-color: rgb(219, 219, 219);
 
 }
+table, th, td {
+    border: 1px solid #727272;
+}
